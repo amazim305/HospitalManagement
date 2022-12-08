@@ -1,0 +1,272 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    margin: 0 auto;
+}
+.clear{
+    overflow: hidden;
+}
+.topbar{
+    background-color: rgb(250, 231, 189);
+    
+}
+.contact-icon{
+    width: 80%;
+    float: left;
+}
+.contact-icon i{
+    color: rgb(105, 105, 52);
+    font-size: 18px;
+    padding: 10px;
+}
+.contact-icon{
+    color: rgb(105, 105, 58);
+    text-decoration: none;
+}
+.contact-icon a{
+    font-size: 18px;
+}
+.social-icon{
+    width: 20%;
+    float: right;
+    margin-right: -150px;
+}
+.social-icon a{
+    color: rgb(105, 105, 53);
+    text-decoration: none;
+}
+.social-icon i{
+    
+}
+.logo{
+    width: 30%;
+    float: left;
+}
+.logo img{
+    width: 50px;
+    padding: 20px;
+}
+.navbar{
+    width: 80%;
+    float: right;
+    margin-top: -90px;
+}
+.navbar a{
+	float: left;
+	font-size: 18px;
+	text-align: center;
+	padding: 20px;
+	text-decoration: none;
+	color: #465e7a;
+}
+.dropdown{
+	float: left;
+}
+.dropdown .btn-drop{
+	font-size: 18px;
+	border: none;
+	outline: none;
+	background-color: inherit;
+	font-family: inherit;
+	color: blue;
+	padding: 30px;
+}
+.dropdown-content{
+	display: none;
+	position: absolute;
+	background-color:  #ffffff;
+	color: #3390ff;
+}
+.dropdown-content a{
+	float: none;
+	color: #3390ff;
+	font-size: 18px;
+	padding: 12px 16px;
+	display: block;
+	text-align: left;
+}
+.dropdown:hover .dropdown-content {
+	display: block;
+}
+.dropdown-content a:hover{
+	background-color: #DDDDDD;
+}
+.slider{
+    
+margin: 5px;
+}
+.slider img{
+    margin: 5px;
+}
+.news{
+    text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	padding: 20px;
+}
+.News1{
+    width: 260px;
+    float: left;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid rgb(104, 80, 80);
+}
+.News1 h4{
+    color: #69a1e6;
+    font-size: 20px;
+}
+.News1 p{
+    color: rgb(17, 87, 8);
+    font-size: 18px;
+}
+.news{
+    font-size: 40px;
+    color: rgb(7, 189, 128);
+
+}
+.btn-news{
+    border: none;
+    outline: none;
+    border-color: aqua;
+    font-family: inherit;
+    color: blueviolet;
+    padding: 15px;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 8px;
+}
+.Maintain{
+    text-align: center;
+}
+.Maintain h2{
+    font-size: 40px;
+    color: rgb(7, 189, 128);
+}
+.maintain1{
+    width: 270px;
+    float: left;
+    margin: 20px;
+    position: relative;
+}
+.maintain1 img{
+    width: 260px;
+}
+.overlay{
+    height: 80px;
+    position: absolute;
+    background-color: black;
+    color: #ffffff;
+    width: 100%;
+    text-align: center;
+    opacity: 0;
+    font-size: 18px;
+    bottom: 0;
+    transition: 1s;
+}
+.maintain1 p{
+    margin: -20px;
+    font-size: 15px;
+}
+.maintain1 h5{
+    font-size: 15px;
+}
+.maintain1:hover .overlay{
+    opacity: 1;
+}
+.about{
+    text-align: center;
+    color: rgb(7, 189, 128);
+    font-size: 35px;
+}
+.about-text{
+    width: 45%;
+    font-size: 14px;
+    text-align: center;
+    margin: 10px;
+    float: left;
+    margin-right: 15px;
+    height: 450px;
+    padding: 6px;
+    
+}
+.location{
+    text-align: center;
+    color: rgb(7, 189, 128);
+    font-size: 40px;
+   
+}
+.map{
+    width: 46%;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+}
+.about-video{
+    width: 45%;
+    float: right;
+    margin: 10px;
+    padding: 10px;
+    margin-right: 15px;
+    height: 450px;
+}
+
+
+
+.btn-service{
+    background-color: rgb(89, 45, 131);
+    color: rgb(15, 231, 159);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 7px;
+}
+.contract{
+    font-size: 30px;
+    color: rgb(7, 189, 128);
+    margin: 5px;
+    padding: 5px;
+}
+.contract2{
+    font-size: 19px;
+}
+.contract1{
+    width: 30%;
+    float: left;
+    text-align: center;
+}
+.use{
+    width: 30%;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.use h3{
+    color: rgb(7, 189, 128);
+    font-size: 30px;
+    text-align: center;
+}
+.use2{
+    width: 30%;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.use2 h3{
+    color: rgb(7, 189, 128);
+    font-size: 30px;
+    text-align: center;
+}
+.footer{
+    font-size: 30px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-attachment: fixed;
+    color:rgb(7, 189, 128);
+}

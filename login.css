@@ -1,0 +1,41 @@
+body {
+    background-image: url(img/Sher-e-Bangla_Medical_college.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(21, 233, 162);
+    font-size: 50px;
+}
+.text h2{
+    
+    text-align: center;
+    color: rgba(25, 238, 121, 0.815);
+    font-size: 40px;
+}
+.form{
+    text-align: center;
+    
+}
+.form label{
+    color: rgba(25, 238, 121, 0.815);
+    
+}
+.form label{
+    font-size: 30px;
+}
+.form input{
+    font-size: 30px;
+}
+.form a button{
+    font-size: 30px;
+}
+.logo{
+ text-align: center;
+}
+.form a{
+    font-size: 30px;
+}
+

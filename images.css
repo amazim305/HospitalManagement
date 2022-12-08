@@ -1,0 +1,66 @@
+h1{
+    background-color: rgb(216, 189, 153);
+    color: rgb(88, 185, 153);
+    margin: 0 auto;
+    padding: 0;
+}
+.a1{
+    width: 50%;
+float: left;
+}
+.a2{
+    width: 48%;
+    float: right;
+}
+body{
+    margin: 0 auto;
+    padding: 0;
+    background-attachment: fixed;
+    background-color: rgb(164, 173, 182);
+}
+.a3{
+    width: 49%;
+    float: left;
+}
+.a4{
+    width: 49%;
+    float: right;
+}
+.contract{
+    font-size: 30px;
+    color: rgb(57, 156, 123);
+    margin: 5px;
+    padding: 5px;
+}
+.contract2{
+    font-size: 19px;
+}
+.contract1{
+    width: 30%;
+    float: left;
+    text-align: center;
+}
+.use{
+    width: 30%;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.use h3{
+    color: rgb(47, 139, 109);
+    font-size: 30px;
+    text-align: center;
+}
+.use2{
+    width: 30%;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.use2 h3{
+    color: rgb(49, 129, 103);
+    font-size: 30px;
+    text-align: center;
+}

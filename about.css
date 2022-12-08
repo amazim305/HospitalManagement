@@ -1,0 +1,161 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-attachment: fixed;
+    background-color: rgb(231, 211, 184);
+}
+.am h2{
+    text-align: center;
+    color: rgb(14, 99, 70);
+}
+.am0{
+    margin: 5px;
+    padding: 5px;
+    width: 20%;
+    float: right;
+    border: 5px;
+    border-radius: 7px;
+}
+.am1 h3{
+    text-align: center;
+    color: rgb(33, 231, 165);
+    letter-spacing: 4px;
+  
+
+}
+.am1{
+    width: 38%;
+    float: left;
+    background-color: rgb(136, 95, 45);
+    margin: 5px;
+    padding: 5px;
+
+}
+.am1 p{
+    color: aquamarine;
+    text-align: center;
+}
+.am2 h3{
+    text-align: center;
+    color: rgb(33, 231, 165);
+    letter-spacing: 4px;
+  
+
+}
+.am2{
+    width: 38%;
+    float: right;
+    background-color: rgb(136, 95, 45);
+    margin: 5px;
+    padding: 5px;
+
+}
+.am2 p{
+    color: aquamarine;
+    text-align: center;
+}
+.am3 h3{
+    text-align: center;
+    color: rgb(33, 231, 165);
+    letter-spacing: 4px;
+  
+
+}
+.am3{
+    width: 38%;
+    float: left;
+    background-color: rgb(136, 95, 45);
+    margin: 5px;
+    padding: 5px;
+
+}
+.am3 p{
+    color: aquamarine;
+    text-align: center;
+}
+.am4 h3{
+    text-align: center;
+    color: rgb(33, 231, 165);
+    letter-spacing: 4px;
+  
+
+}
+.am4{
+    width: 38%;
+    float: left;
+    background-color: rgb(136, 95, 45);
+    margin: 5px;
+    padding: 5px;
+    margin-top: 190px;
+
+}
+.am4 p{
+    color: aquamarine;
+    text-align: center;
+}
+.am5 h3{
+    text-align: center;
+    color: rgb(33, 231, 165);
+    letter-spacing: 4px;
+  
+
+}
+.am5{
+    width: 38%;
+    float: left;
+    background-color: rgb(136, 95, 45);
+    margin: 5px;
+    padding: 5px;
+     margin-top: 200px;
+}
+.am5 p{
+    color: aquamarine;
+    text-align: center;
+}
+.am6 h3{
+    text-align: center;
+    color: rgb(33, 231, 165);
+    letter-spacing: 4px;
+  
+
+}
+.am6{
+    width: 38%;
+    float: left;
+    background-color: rgb(136, 95, 45);
+    margin: 5px;
+    padding: 5px;
+
+}
+.am6 p{
+    color: aquamarine;
+    text-align: center;
+}
+.am7 h3{
+    text-align: center;
+    color: rgb(33, 231, 165);
+    letter-spacing: 4px;
+  
+
+}
+.am7{
+    width: 38%;
+    float: left;
+    background-color: rgb(136, 95, 45);
+    margin: 5px;
+    padding: 5px;
+
+}
+.am7 p{
+    color: aquamarine;
+    text-align: center;
+}
+.footer{
+    font-size: 30px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-attachment: fixed;
+    color:rgb(7, 189, 128);
+    margin-top: 1750px;
+}
